@@ -9,3 +9,7 @@ devenv.local.nix
 .pre-commit-config.yaml
 
 soljson-latest.js
+
+out
+
+cache
